@@ -51,7 +51,7 @@
     ],
     "work": [
       {
-        "company": "peopleMaticlab",
+        "company": "PeopleMaticlab",
         "title": "Full stack web developer inter",
         "years": "August 2022 - Present",
         "description": "Front-End and Back-End website development according to client. "
@@ -61,6 +61,10 @@
       {
         "name": "ReactJs",
         "level": "100%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "85%"
       },
       {
         "name": "Python",
@@ -75,8 +79,8 @@
         "level": "99%"
       },
       {
-        "name": "Web Development",
-        "level": "95%"
+        "name": "mongoDB",
+        "level": "70%"
       }
     ]
   },
@@ -99,12 +103,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Ravi is absolutely excellent, he is so header worker and quick learner.So, I can say, he will successful in his life and he will be a first class software developer.",
+        "user": "Krupali Rana"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Learning with Ravi had been AWESOME, he makes work easy.He's helping me out in many situation. He has a good knowleage on React and their application.",
+        "user": "Aditya Sharma"
       }
     ]
   }
