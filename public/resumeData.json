@@ -1,45 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
+    "name": "Ravi Raj",
+    "occupation": "Full Stack Web-developer",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Ravi Raj! . I've been coding for over 1.5 years now. As a Full Stack developer I've worked as both front-end and back-end developer to help build & scale their companies. I am currently worked with peopleMaticlab as a full stack developer intern.I have a good problem sloving skills and I am good listner so i can grab new skills very easier. I also love to finding pattern in real time data set so  I also passionate to learn data Science skills.",
+    "contactmessage": "Get in touch with me",
+    "email": "ciaoraviraj@gmail.com",
+    "phone": "+91 9801329671",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "new Wagodiya Road",
+      "city": "Vadodara",
+      "state": "Gujarat",
+      "zip": "391760"
     },
     "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "resumedownload": "https://docs.google.com/uc?export=download&id=14Aj1b-QweHuMdi8Onwk4x2Z8QnOwq-Qa",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/ciaoraviraj",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/ciaoraviraj",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/ciaoraviraj/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/CiaoRaviRaj",
         "className": "fa fa-github"
       }
     ]
@@ -48,18 +43,18 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
+        "school": "Parul University - Vadodara",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "graduated": "July 2022",
+        "description": "I am persuing my graduation, i will get First Class Honours."
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "peopleMaticlab",
+        "title": "Full stack web developer inter",
+        "years": "August 2022 - Present",
+        "description": "Front-End and Back-End website development according to client. "
       }
     ],
     "skills": [
@@ -69,11 +64,11 @@
       },
       {
         "name": "Python",
-        "level": "85%"
+        "level": "60%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "JavaScript",
@@ -88,22 +83,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Amazon Clone (React JS & Node Js)",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "amazonClone.png",
+        "url": "https://clone-f7def.web.app/"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "notesMaking(React JS)",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
-      },
-      {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "Notemaking.png",
+        "url": "https://ciao-keeper-app.web.app/"
       }
     ]
   },
