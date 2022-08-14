@@ -1,6 +1,6 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
+# React JS Resume Starter Pack and Digital Portfolio
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
+![React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
 
 ### <a href="https://nimble-profiterole-d8660b.netlify.app/">LIVE DEMO</a>
 
