@@ -2,20 +2,20 @@
   "main": {
     "name": "Ravi Raj",
     "occupation": "Full Stack Web-developer",
-    "description": "I eat, sleep and breathe React",
+    "description": "Passionate Full Stack Web Developer with a knack for problem- solving and a strong aptitude for teamwork. Dedicated to continuous learning and leveraging the latest technologies to create high-quality, efficient solutions.",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Ravi Raj! . I've been coding for over 1.5 years now. As a Full Stack developer I've worked as both front-end and back-end developer to help build & scale their companies. I am currently worked with peopleMaticlab as a full stack developer intern.I have a good problem sloving skills and I am good listner so i can grab new skills very easier. I also love to finding pattern in real time data set so  I also passionate to learn data Science skills.",
+    "bio": "Hi there! I am Ravi Raj! . I've been coding for over 3 years now. I am a passionate Full Stack Web Developer with experience in building dynamic and scalable applications. With a strong foundation in JavaScript, React.js, Next.js, Node.js, and SQL, I specialize in crafting high-quality solutions that enhance user experience and performance. At Zignuts Technolab, I have led multiple projects, integrating cutting-edge AI technologies, automating testing processes, and developing tools like an in-house coding integration editor for technical interviews. My work also extends to open-source projects, including collaborative coding platforms, eCommerce websites, and cloud storage applications. Always eager to learn and innovate, I thrive on solving complex problems and delivering impactful solutions. Feel free to explore my projects on GitHub and connect with me on LinkedIn!",
     "contactmessage": "Get in touch with me",
     "email": "ciaoraviraj@gmail.com",
     "phone": "+91 9801329671",
     "address": {
-      "street": "new Wagodiya Road",
-      "city": "Vadodara",
+      "street": "Sargasan",
+      "city": "Gandhinagar",
       "state": "Gujarat",
-      "zip": "391760"
+      "zip": "382021"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "https://docs.google.com/uc?export=download&id=14Aj1b-QweHuMdi8Onwk4x2Z8QnOwq-Qa",
+    "website": "https://github.com/CiaoRaviRaj",
+    "resumedownload": "https://drive.google.com/file/d/1bneDF5RzEuHVh4aWWenEGqkLLztzDhRr/view?usp=drivesdk",
     "social": [
       {
         "name": "facebook",
@@ -45,19 +45,33 @@
       {
         "school": "Parul University - Vadodara",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2022",
-        "description": "I am persuing my graduation, i will get First Class Honours."
+        "graduated": "July 2019 - April 2023",
+        "description": "I have completed my graduation with 7.9 CGPA."
       }
     ],
     "work": [
       {
+        "company": "Zignuts Technolabs",
+        "title": "Full stack web developer",
+        "years": "November 2022 - Present",
+        "description": "At Zignuts Technolab, I worked as a Full Stack Web Developer, leading and contributing to multiple innovative projects. I played a key role in integrating AI technologies into a unified platform, automating testing processes using Puppeteer and Cucumber-js, and developing an in-house coding integration editor used for technical interviews. Additionally, I designed and implemented dynamic admin panels for mobile applications and contributed to the company's success in the AI-Based Hackathon 2024. My work consistently focused on delivering high-quality solutions, leveraging modern technologies, and enhancing development efficiency."
+      },
+      {
         "company": "PeopleMaticlab",
         "title": "Full stack web developer inter",
-        "years": "August 2022 - Present",
-        "description": "Front-End and Back-End website development according to client. "
+        "years": "August 2022 - November 2022",
+        "description": "At PeopleMatic Labs, I worked as a Full Stack Web Developer Intern, where I gained hands-on experience managing real-time projects and solving practical challenges. I enhanced my teamwork and collaboration skills by effectively contributing to project execution in a professional environment. This role provided me with valuable insights into handling client requirements and delivering tailored solutions, laying a strong foundation for my career in software development."
       }
     ],
     "skills": [
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "NextJs",
+        "level": "100%"
+      },
       {
         "name": "ReactJs",
         "level": "100%"
@@ -67,25 +81,49 @@
         "level": "85%"
       },
       {
+        "name": "Express.js",
+        "level": "85%"
+      },
+      {
+        "name": "SailsJs",
+        "level": "90%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "mongoDB",
+        "level": "70%"
+      },
+      {
+        "name": "Web-socket",
+        "level": "93%"
+      },
+      {
         "name": "Python",
         "level": "60%"
       },
       {
         "name": "Git",
-        "level": "80%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
-        "name": "mongoDB",
-        "level": "70%"
+        "level": "100%"
       }
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Real-time-code-sync (React JS & Node Js & web-socket)",
+        "category": "",
+        "image": "code-sync.png",
+        "url": "https://realtime-code-sync-frontend.vercel.app/"
+      },
+      {
+        "title": "Bookify (React JS & Node Js & firebases)",
+        "category": "",
+        "image": "bookify.png",
+        "url": "https://bookify-ciaoraviraj.vercel.app/"
+      },
       {
         "title": "Amazon Clone (React JS & Node Js)",
         "category": "",
